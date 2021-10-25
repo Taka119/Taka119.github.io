@@ -1,0 +1,371 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:791px;
+  min-width:200px;
+  max-width:1167px;
+  margin:auto;
+  background-color:#ffffff;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Rectangle-148{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:1167px;
+  min-width:1167px;
+  height:791px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:791px;
+  background-color:rgba(250, 247, 234, 1);
+}
+.Rectangle-148-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Line-32{
+  position:relative;
+  z-index:4;
+  pointer-events:auto;
+  cursor:pointer;
+  transform:rotate(135deg);
+  min-width:20.52px;
+  min-height:undefinedpx;
+  border:1px solid rgba(0, 0, 0, 1);
+  width:100%;
+}
+.Line-32-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Line-32-url{
+  text-decoration:none;
+  margin-left:75px;
+  width:20.52px;
+  margin-top:-745px;
+  margin-bottom:745px;
+}
+.Line-33{
+  position:relative;
+  z-index:5;
+  pointer-events:auto;
+  cursor:pointer;
+  transform:rotate(-135deg);
+  min-width:19.85px;
+  min-height:undefinedpx;
+  border:1px solid rgba(0, 0, 0, 1);
+  width:100%;
+}
+.Line-33-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Line-33-url{
+  text-decoration:none;
+  margin-left:75px;
+  width:19.85px;
+  margin-top:-731px;
+  margin-bottom:731px;
+}
+.WhatsApp-Image-2021--2{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:425px;
+  width:319px;
+  min-width:319px;
+  height:315px;
+  margin-top:-701px;
+  margin-bottom:386px;
+  min-height:315px;
+  content:url(assets/images/WhatsApp_Image_2021_09_02_at_9_45.png);
+}
+.WhatsApp-Image-2021--2-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.WhatsApp-Image-2021--3{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:87px;
+  width:319px;
+  min-width:319px;
+  height:315px;
+  margin-top:-701px;
+  margin-bottom:386px;
+  min-height:315px;
+  content:url(assets/images/WhatsApp_Image_2021_09_02_at_9_44.png);
+}
+.WhatsApp-Image-2021--3-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Icon-favourite{
+  position:relative;
+  z-index:6;
+  pointer-events:auto;
+  cursor:pointer;
+  margin-left:1035px;
+  width:49px;
+  min-width:49px;
+  height:49px;
+  margin-top:-698px;
+  margin-bottom:649px;
+  min-height:49px;
+}
+.Icon-favourite-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Shape{
+  position:relative;
+  z-index:7;
+  pointer-events:auto;
+  cursor:pointer;
+  margin-left:8.163265306122437%;
+  width:85.36734693877538%;
+  height:77.04081632653062%;
+  margin-top:12.244897959183655%;
+  content:url(assets/images/Shape.png);
+}
+.Shape-outer{
+  pointer-events:none;
+  z-index:7;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.WhatsApp-Image-2021-{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:425px;
+  width:319px;
+  min-width:319px;
+  height:291px;
+  margin-top:-363px;
+  margin-bottom:72px;
+  min-height:291px;
+  content:url(assets/images/WhatsApp_Image_2021_09_02_at_9_27.png);
+}
+.WhatsApp-Image-2021--outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+.WhatsApp-Image-2021--1{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:87px;
+  width:319px;
+  min-width:319px;
+  height:291px;
+  margin-top:-363px;
+  margin-bottom:72px;
+  min-height:291px;
+  content:url(assets/images/WhatsApp_Image_2021_09_02_at_9_27_1.png);
+}
+.WhatsApp-Image-2021--1-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Icon-thumb-down{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:1034px;
+  width:50px;
+  min-width:50px;
+  height:49px;
+  margin-top:-193px;
+  margin-bottom:144px;
+  min-height:49px;
+}
+.Icon-thumb-down-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.thumbs-up{
+  position:relative;
+  z-index:12;
+  pointer-events:auto;
+  cursor:pointer;
+  margin-left:0px;
+  width:50px;
+  min-width:50px;
+  height:49px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:49px;
+  content:url(assets/images/thumbs_up.png);
+}
+.thumbs-up-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Icon-thumb-up{
+  position:relative;
+  z-index:8;
+  pointer-events:auto;
+  cursor:pointer;
+  margin-left:946px;
+  width:50px;
+  min-width:50px;
+  height:49px;
+  margin-top:-193px;
+  margin-bottom:144px;
+  min-height:49px;
+}
+.Icon-thumb-up-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Path-2{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:12%;
+  width:14.5%;
+  height:39.55102040816327%;
+  margin-top:36%;
+  content:url(assets/images/Path_2.png);
+}
+.Path-2-outer{
+  pointer-events:none;
+  z-index:10;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Path-15{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:32.00000000000003%;
+  width:56.160000000000046%;
+  height:77.04081632653062%;
+  margin-top:4.0000000000000036%;
+  content:url(assets/images/Path_15.png);
+}
+.Path-15-outer{
+  pointer-events:none;
+  z-index:9;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Garden-s-House{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:744px;
+  width:369px;
+  height:55px;
+  margin-top:-402px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Apparel;
+  font-weight:400;
+  font-size:40px;
+  line-height:55px;
+}
+.Garden-s-House-outer{
+  pointer-events:none;
+  z-index:14;
+  justify-content:center;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
+.The-Garden-s-House-i{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:688px;
+  width:313px;
+  height:257px;
+  margin-top:40px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(31, 64, 97, 1);
+  font-style:normal;
+  font-family:Apparel;
+  font-weight:400;
+  font-size:20px;
+  line-height:30px;
+}
+.The-Garden-s-House-i-outer{
+  pointer-events:none;
+  z-index:13;
+  justify-content:center;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+  align-items:center;
+}
